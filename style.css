@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    
+    flex-direction: column;
+   
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.sketchBox{
+    height: 420px;
+    width: 420px;
+    border: 3px solid black;
+}
